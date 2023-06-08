@@ -1,2 +1,4 @@
 # TaadiEvents
-an event website for the twin cities
+
+
+### This is an event posting site to help event organizers in takoradi to advertize their events
